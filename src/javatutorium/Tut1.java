@@ -7,11 +7,11 @@ public class Tut1 {
 		Auto polo = new Auto(123);
 		polo.setMotorleistung(111);
 		polo.setMotorleistung(150);
-		
+
 		Auto up = new Auto(20);
 		up.setMotorleistung(240);
-		System.out.println("Der VW Polo hat " + polo.getMotorleistung()+"Kw!");
-		System.out.println("Der VW Up   hat " + up.getMotorleistung()+"Kw!");
+		System.out.println("Der VW Polo hat " + polo.getMotorleistung() + " kW!");
+		System.out.println("Der VW Up hat " + up.getMotorleistung() + " kW!");
 	}
 
 	public static int doubleInteger(int zahl) {
