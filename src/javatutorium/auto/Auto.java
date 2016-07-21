@@ -1,4 +1,4 @@
-package javatutorium;
+package javatutorium.auto;
 
 public class Auto { // <= Klasse :)
 
