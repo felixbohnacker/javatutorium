@@ -1,4 +1,4 @@
-package javatutorium;
+package javatutorium.auto;
 
 public class Tut1 {
 	public static void main(String[] args) {
